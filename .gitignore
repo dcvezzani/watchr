@@ -4,3 +4,6 @@ bk/
 .wiki
 .yardoc
 *.gem
+
+.sw*
+.*.sw*
